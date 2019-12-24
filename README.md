@@ -3,11 +3,12 @@ onePager
 
 Refaire le template 
 
-Solo 2jrs
+Solo 2jrs pas fini
 
 HTML/CSS
 
 BCode formation : Exo 
 
+template à recopier : https://lena4496.github.io/template_association/ 
 
-https://lena4496.github.io/HTML-basic/
+exo : https://lena4496.github.io/HTML-basic/ 
